@@ -76,7 +76,7 @@
     padding: 20px;
     margin-top: 15px;
     background-image: url("https://img.freepik.com/free-photo/crumpled-yellow-paper-background-close-up_60487-2390.jpg?size=626&ext=jpg");
-    /* background-color: goldenrod; */
+    background-color: rgb(251, 194, 49);
 }
 .todo-single-text {
     flex: 1;
